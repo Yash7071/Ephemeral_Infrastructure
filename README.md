@@ -14,6 +14,13 @@
 
 ---
 
+
+
+https://github.com/user-attachments/assets/9db109ae-7be6-4c2b-ac83-ddd235b14350
+
+
+
+
 ## 📖 Overview
 
 In modern software engineering, traditional shared staging environments create massive deployment bottlenecks. This project solves the "works on my machine" problem by engineering a highly automated, event-driven infrastructure platform. 
